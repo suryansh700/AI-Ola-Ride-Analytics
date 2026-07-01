@@ -1,0 +1,25 @@
+Column,Data Type,Missing Values,Unique Values
+Booking ID,object,0,100000
+Booking Date,object,0,365
+Booking Time,object,0,1440
+City,object,0,6
+Customer ID,object,0,60599
+Driver ID,object,0,9000
+Vehicle Type,object,0,6
+Pickup Location,object,0,10
+Drop Location,object,0,10
+Booking Status,object,0,5
+Ride Distance (km),float64,0,3310
+Ride Duration (min),int64,0,296
+Booking Value,float64,0,15387
+Surge Multiplier,float64,0,2
+Discount,int64,0,4
+Payment Method,object,0,4
+Weather,object,0,4
+Traffic,object,0,3
+Driver Rating,float64,19861,36
+Customer Rating,float64,19861,45
+Cancelled by Customer Reason,object,92062,4
+Cancelled by Driver Reason,object,93996,4
+Weekend,object,0,2
+Hour,int64,0,24
