@@ -992,7 +992,7 @@ The dashboard is designed for managers and business stakeholders to monitor oper
 
 ## 🏠 Executive Dashboard
 
-![Executive Dashboard](screenshots/dashboard_page1.png)
+![Executive Dashboard](screenshots/dashboard_page1.png.png)
 
 ### Dashboard Highlights
 
@@ -1009,7 +1009,7 @@ The dashboard is designed for managers and business stakeholders to monitor oper
 
 ## 💰 Revenue Analytics Dashboard
 
-![Revenue Dashboard](screenshots/dashboard_page2.png)
+![Revenue Dashboard](screenshots/dashboard_page2.png.png)
 
 ### Key Visualizations
 
@@ -1024,7 +1024,7 @@ The dashboard is designed for managers and business stakeholders to monitor oper
 
 ## 👥 Customer Analytics Dashboard
 
-![Customer Dashboard](screenshots/dashboard_page3.png)
+![Customer Dashboard](screenshots/dashboard_page3.png.png)
 
 ### Key Insights
 
@@ -1039,7 +1039,7 @@ The dashboard is designed for managers and business stakeholders to monitor oper
 
 ## 🚖 Driver Analytics Dashboard
 
-![Driver Dashboard](screenshots/dashboard_page4.png)
+![Driver Dashboard](screenshots/dashboard_page4.png.png)
 
 ### Driver Performance Metrics
 
@@ -1054,7 +1054,7 @@ The dashboard is designed for managers and business stakeholders to monitor oper
 
 ## ⚙ Operations Dashboard
 
-![Operations Dashboard](screenshots/dashboard_page5.png)
+![Operations Dashboard](screenshots/dashboard_page5.png.png)
 
 ### Operational Insights
 
