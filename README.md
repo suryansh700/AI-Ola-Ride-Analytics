@@ -1037,8 +1037,8 @@ Feel free to use this project for educational and learning purposes.
 ### Connect with me
 
 - **GitHub:** https://github.com/suryansh700
-- **LinkedIn:** *(Add your LinkedIn profile URL here)*
-- **Email:** *(Add your professional email here)*
+- **LinkedIn:** www.linkedin.com/in/suryansh-singh-028a202b9
+- **Email:** singhsuryansh2389@gmail.com
 
 ---
 
